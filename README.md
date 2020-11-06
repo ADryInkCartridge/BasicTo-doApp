@@ -1,6 +1,7 @@
-# idunno
+# To-Do List
 
-2nd App
+This is a todo list without a save state usage (yet)
+Planning on adding saving functionality but can't do it yet :(
 
 ## Getting Started
 
